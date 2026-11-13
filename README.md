@@ -200,4 +200,4 @@ This repository serves as the official landing page for Heroes & Dice. The softw
 **Get the most recent version of Heroes & Dice today!**
 
 ---
-**Last updated:** 2026-11-12 23:30:02 UTC
+**Last updated:** 2026-11-13 05:47:51 UTC
